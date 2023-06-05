@@ -30,3 +30,5 @@ elif operador == '/':
     print(n1 + operador + n2, resultado)
 else:
     print ("Operador incorreto")
+
+    oiee
